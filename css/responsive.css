@@ -1,0 +1,95 @@
+
+
+
+@media (max-width: 1199px){
+        .navbar-light .navbar-nav .nav-link{
+        	 margin-left: 5px;
+        }
+       .banner-section h1 {
+    font-size: 44px;
+    }
+    footer ul li a {
+    margin-left: 26px;
+}
+.footer-part .social ul li i::before {
+    margin-right: 12px;
+    }
+    .footer-part form i::before {
+    transform: translateX(174px);
+}
+}
+@media (max-width: 991px){
+        
+       .banner-section h1 {
+    font-size: 40px;
+}
+.step-section .heading h1 {
+    margin-top: 38px;
+}
+.steps li h2{
+	margin-top: 30px;
+}
+.transaction p {
+    font-size: 14px; 
+}
+footer ul li a {
+    margin-left: 20px;
+}
+.footer ul {
+    margin-bottom: 22px;
+}
+.footer-part ul {
+    margin-top: 23px;
+}
+.footer-part form i::before {   
+    left: 356px;
+    transform: translateX(300px);
+}
+}
+
+@media (max-width: 767px){
+        .banner-section h1 {
+    font-size: 35px;
+}
+       header ul li a {
+    margin-left: 10px;
+}
+.feature {
+    margin-top: 37px;
+}
+footer ul {
+    
+    display: block !important;
+}
+.footer-part form i::before {
+    left: 0;
+    transform: translateX(478px);
+}
+}
+@media (max-width: 575px){
+        
+       header ul  {
+         display: block!important;
+}
+header p {
+    text-align: center;
+
+}
+
+.steps li h2 {
+
+	margin-top: 30px;
+	}
+	.footer-part form i::before {
+    left: 0;
+    transform: translateX(510px);
+}
+
+}
+
+@media (max-width: 400px) {
+	.footer-part form i::before {
+    left: 0;
+    transform: translateX(282px);
+}
+}
